@@ -1,8 +1,13 @@
 # atelier-tensor-network
 
-![snapshot sample](sample_images/snapshot1.png)
+<div style="display: flex;">
+  <img src="sample_images/sample1.png" height="300" style="margin-right: 10px;">
+  <img src="sample_images/sample2.png" height="300">
+</div>
 
-2025年度『ぶつりのあとりえ。』の記事「テンソルネットワークって？ by 沖縄のフォン・ノイマン」の図の作成に用いたプログラム．
+<br>
+
+2025年度『ぶつりのあとりえ。』の記事「テンソルネットワークって？ 沖縄のフォン・ノイマン」の図の作成に用いたプログラム．
 
 プログラムはすべてJuliaで書かれている．
 
