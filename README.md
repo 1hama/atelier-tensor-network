@@ -1,1 +1,8 @@
-"# atelier-tensor-network" 
+\# atelier-tensor-network
+
+
+
+2025年度『ぶつりのあとりえ。』の記事「テンソルネットワークって？ by 沖縄のフォン・ノイマン」の図の作成に用いたプログラム．
+
+プログラムはすべてJuliaで書かれている．
+
